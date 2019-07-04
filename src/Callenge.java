@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-public class FizzBuzz {
+public class Callenge {
 
 	public static void main(String[] args) {
 		for (int i = 1; i <=100; i++) {
